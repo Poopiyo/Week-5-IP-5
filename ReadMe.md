@@ -6,6 +6,7 @@
 1. Close the main.xaml.
 2. Open the ReadRequest.xaml and click fix dependencies issues, you should be able to see and evaluate the activities in this workflow.
 3. Open the SaaSAutomation.xaml and click fix dependencies issues, you should be able to see and evaluate the activities in this workflow.
+4. Now Open Main.xaml and click fix dependencies issues, you should be able to see and evaluate the activities in this workflow.
 
 
 ## Requirements:
