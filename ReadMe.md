@@ -10,8 +10,8 @@
 ## Requirements:
 - UiPath Studio and Robot Agent connected to your machine and a Chrome UiPath Extention Enabled
 - Microsoft Excel (Office)
-- Windows 7 or higher
-- Any SaaS based ticketing system - I'm using Zoho for this one - already logged in on chrome (or whatever browser so long as you have the necessary plugins specific to that browser installed as well).
+- Linux mint
+- Zoho-SaaS based ticketing system.
 - Run the Main file in UiPath studio.
 # Job Card Creation Bot
 
