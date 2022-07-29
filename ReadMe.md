@@ -13,7 +13,7 @@
 - Windows 7 or higher
 - Any SaaS based ticketing system - I'm using Zoho for this one - already logged in on chrome (or whatever browser so long as you have the necessary plugins specific to that browser installed as well).
 - Run the Main file in UiPath studio.
-# Job Card Creation Bot# 
+# Job Card Creation Bot
 
 ## How it works
 - A UiPath based Robot Agent will trigger the automated bot with Hotkey keyboard trigger/shortcuts (ALT +S).
