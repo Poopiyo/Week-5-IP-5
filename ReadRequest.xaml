@@ -140,7 +140,6 @@
           </ActivityAction>
         </Catch>
       </TryCatch.Catches>
-          </TryCatch>
-
+    </TryCatch>
   </Sequence>
 </Activity>
