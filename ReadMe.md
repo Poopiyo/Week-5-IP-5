@@ -1,5 +1,9 @@
 # Job Card Creation Bot
 
+## Review Instructions:
+
+- In order for anyone (TMs in this case) to run/test your projects on their devices. Follow the following steps:
+
 ## Requirements:
 - UiPath Studio and Robot Agent connected to your machine and a Chrome UiPath Extention Enabled
 - Microsoft Excel (Office)
