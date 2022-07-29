@@ -1,4 +1,4 @@
-# Customer Care Job Card Creation Bot
+# Job Card Creation Bot
 
 ## Requirements:
 - UiPath Studio and Robot Agent connected to your machine and a Chrome UiPath Extention Enabled
